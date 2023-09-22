@@ -1,8 +1,7 @@
 ## ra-event-state-dropdown
 
----
 
-[![Build status](https://ci.appveyor.com/api/projects/status/altpw6aw61gsusjc?svg=true)](https://ci.appveyor.com/project/Liaksej/ra-components-store-func)
+[![Build status](https://ci.appveyor.com/api/projects/status/dwrbks77l9mc0vqq?svg=true)](https://ci.appveyor.com/project/Liaksej/ra-event-state-dropdown)
 
 
 https://liaksej.github.io/ra-event-state-dropdown/
